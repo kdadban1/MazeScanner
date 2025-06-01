@@ -26,7 +26,7 @@ W...@
 @@@@@  
 
 Instructions for Use
-1. Clone (or download as .zip): git clone https://github.com/yourusername/mazescanner.git
+1. Clone (or download as .zip): git clone https://github.com/kdadban1/mazescanner.git
 2. Navigate to project folder: cd mazescanner
 3. Compile program: javac Maze.java
 4. Run the program with desired maze file (easyMap1, easyMap2, mediumMap, hardMap): java Maze easyMap1.txt
